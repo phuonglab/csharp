@@ -1,0 +1,9 @@
+#Convert string <=> byte array
+  +string => byte array 
+    byte[] array = Encoding.ASCII.GetBytes(input); //input is string
+  +byte array => sring
+    string value = ASCIIEncoding.ASCII.GetString(array);
+#Use unsafe keyword to use pointer in c#
+#Use msgBox
+  DialogResult result = MessageBox.Show("tittle","content",MessageBoxButtons.YesNoCancel
+  , MessageBoxIcon.Question,MessageBoxOptions.RightAlign,true);
