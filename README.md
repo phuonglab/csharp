@@ -1,4 +1,2 @@
-C---Programming
-===============
 
 C# Programming
